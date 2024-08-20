@@ -802,7 +802,7 @@ label {
 }
 
 .slide {
-  vertical-align: middle;
+  vertical-align: text-top;
   margin-right: 100px;
 }
 
