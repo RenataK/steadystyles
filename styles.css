@@ -12,10 +12,6 @@ main, section {
   display: block;
 }
 
-a {
-  background-color: rgba(0, 0, 0, 0);
-}
-
 a:active, a:hover {
   outline: 0;
 }
@@ -404,12 +400,6 @@ h2 {
 
 p {
   margin-bottom: 0;
-}
-
-a {
-  color: #383b40;
-  border-color: #000;
-  text-decoration: underline;
 }
 
 label {
